@@ -8,7 +8,6 @@ author_profile: true
 
 # Italian National Scientific Qualification as Associate Professor
 
-======
 Italian National Scientific Qualification as Associate Professor (Call D.D. 1796/2023) in the
 sector 05/A1 Botany (10/03/2025 - 10/03/2037)
 
