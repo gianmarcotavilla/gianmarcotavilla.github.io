@@ -1,9 +1,4 @@
----
-permalink: /
-title: "Professional Qualificaations"
-author_profile: true
 
----
 
 {% include base_path %}
 
