@@ -1,5 +1,5 @@
 ---
-title: "Revisiting the typification of the Linnaean name Allium fistulosum (Amaryllidaceae). "
+title: "Revisiting the typification of the Linnaean name Allium fistulosum (Amaryllidaceae)"
 collection: publications
 category: manuscripts
 permalink: https://bioone.org/journals/annales-botanici-fennici/volume-62/issue-1/085.062.0104/Revisiting-the-Typification-of-the-Linnaean-Name-Allium-fistulosum-Amaryllidaceae/10.5735/085.062.0104.short
