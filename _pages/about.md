@@ -13,9 +13,9 @@ Research Interests
 ======
 My research is multifaceted, encompassing several key areas. I specialize in the nomenclature of the Asteraceae (Centaurea) and Lamiaceae (Salvia) families. Proper naming and classification are fundamental to organizing and understanding biodiversity. Plant taxonomy is another critical area of my work, focusing on the systematic classification of plants, understanding their evolutionary relationships, and naming new species.
 
-I have a particular interest in the vascular flora of the Mediterranean region, studying the native plant species, their distribution, and ecological roles. Vegetation ecology allows me to explore the study of plant communities, including their composition, structure, and interactions with the environment. Phytosociology is an equally important aspect of my research, which involves classifying plant communities and understanding the relationships between species and their habitats using quantitative methods.
+I have a particular interest in the vascular flora of the Mediterranean region, studying the native plant species, their distribution, and ecological roles. Vegetation ecology allows me to study plant communities, including their composition, structure, and interactions with the environment. Phytosociology is an equally important aspect of my research, which involves classifying plant communities and understanding the relationships between species and their habitats using quantitative methods.
 
-The impact of alien species on ecosystems is a significant area of concern in my research. I aim to identify, monitor, and manage invasive species to mitigate their impact on native flora. Conservation of indigenous flora is crucial for maintaining biodiversity. I work on strategies for conserving and restoring native plant species.
+The impact of alien species on ecosystems is a significant area of concern in my research. I aim to identify, monitor, and manage invasive species to mitigate their impact on native flora. Conservation of indigenous flora is crucial for maintaining biodiversity.
 
 Additionally, I utilize Geographic Information Systems (GIS) and remote sensing as powerful tools in my research. These technologies enable the detailed analysis and mapping of plant distributions and habitats, providing invaluable insights into the complexities of plant life and ecosystem dynamics.
 
