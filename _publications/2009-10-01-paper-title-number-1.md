@@ -1,14 +1,10 @@
 ---
-title: "Paper Title Number 1"
+title: "Assessing plant species diversity in Maltese rocky cliffs using Hill numbers and its implications for conservation."
 collection: publications
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'http://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: [/publication/2009-10-01-paper-title-number-1](https://www.frontiersin.org/journals/conservation-science/articles/10.3389/fcosc.2025.1552578/full)
+excerpt: 'The Mediterranean Basin is known as a global biodiversity hotspot, featuring an impressive variety of plant species, with the Maltese Archipelago playing a significant role. This study assesses plant diversity within Malta’s rocky cliffs, focusing on changes over five decades (1973 and 2024). Using Hill numbers alongside coverage-based and size-based rarefaction and extrapolation methods, the research evaluates species richness, Simpson diversity, and Shannon diversity. Results indicate overall stability in species richness but reveal declining evenness and increasing dominance by a few species, suggesting significant ecological shifts. Statistical analyses, including NMDS, ANOSIM, and PERMANOVA, validate temporal changes in community composition. Notably, some endemic species, such as Salsola melitensis, show slight increases, whereas others, like Chiliadenus bocconei, exhibit severe declines. These findings underscore the importance of rocky habitats as reservoirs of endemic and specialized flora, highlighting the urgent need for conservation efforts to mitigate anthropogenic pressures and adapt to changing environmental conditions. This study demonstrates the effectiveness of Hill numbers and advanced diversity metrics in monitoring biodiversity dynamics and informing conservation strategies.'
+date: 2025-03-21
+venue: 'Frontier in Conservation Sciences'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
