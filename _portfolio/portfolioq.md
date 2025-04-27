@@ -1,10 +1,8 @@
 ---
-layout: archive
-title: "CV"
-permalink: /cv/
+permalink: /
+title: "Professional Qualificaations"
 author_profile: true
-redirect_from:
-  - /resume
+
 ---
 
 {% include base_path %}
