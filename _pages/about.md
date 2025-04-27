@@ -11,7 +11,7 @@ I’m Gianmarco Tavilla, an enthusiastic botanical researcher deeply immersed in
 
 Research Interests
 ======
-My research is multifaceted, encompassing several key areas. I specialize in the nomenclature of the Asteraceae (Centaurea) and Lamiaceae (Salvia) families. Proper naming and classification are fundamental to organizing and understanding biodiversity. Plant taxonomy is another critical area of my work, focusing on the systematic classification of plants, understanding their evolutionary relationships, and naming new species.
+My research is multifaceted, encompassing several key areas. I specialize in the nomenclature of the Asteraceae (Centaurea) and Lamiaceae (Salvia). Proper naming and classification are fundamental to organizing and understanding biodiversity. Plant taxonomy is another critical area of my work, focusing on the systematic classification of plants, understanding their evolutionary relationships, and naming new species.
 
 I have a particular interest in the vascular flora of the Mediterranean region, studying the native plant species, their distribution, and ecological roles. Vegetation ecology allows me to study plant communities, including their composition, structure, and interactions with the environment. Phytosociology is an equally important aspect of my research, which involves classifying plant communities and understanding the relationships between species and their habitats using quantitative methods.
 
